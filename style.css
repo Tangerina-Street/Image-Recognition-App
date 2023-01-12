@@ -1,0 +1,22 @@
+body{
+    background-color:lightblue;
+    color:darkolivegreen;
+    font-family: fantasy;
+}
+.heading{
+    width: 80%;
+    font-size: 30px;
+    background-color:lightblue;
+    border: 5px ridge cornflowerblue
+}
+.names_of_objects{
+    color:blueviolet;
+}
+#camera, #result{
+    border: 3px double goldenrod;
+    width: 350px;
+    height: 300px;
+}
+#object, #accuracy{
+    color:deeppink;
+}
